@@ -196,6 +196,7 @@ const PlayList = () => {
   return (
     <div className="playlist-container">
       <div className="bg"></div>
+      <div className="bg-celular"></div>
       <div className="album-cover">
         <Swiper
           effect={'coverflow'}
