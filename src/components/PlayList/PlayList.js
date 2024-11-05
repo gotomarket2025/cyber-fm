@@ -16,6 +16,7 @@ import GTM from '../../assets/musicas/GTM.mp3';
 import ECT from '../../assets/musicas/ECT.mp3';
 import EM from '../../assets/musicas/EM.mp3';
 import EN from '../../assets/musicas/EN.mp3';
+import EV from '../../assets/musicas/EV.mp3';
 import PM from '../../assets/musicas/PM.mp3';
 
 // Importação das imagens
@@ -27,6 +28,7 @@ import CapaGTM from '../../assets/musicas/capas/GTM-CapaAlbum.png';
 import CapaECT from '../../assets/musicas/capas/ECT-CapaAlbum.png';
 import CapaEM from '../../assets/musicas/capas/EM-CapaAlbum.png';
 import CapaEN from '../../assets/musicas/capas/EN-CapaAlbum.png';
+import CapaEV from '../../assets/musicas/capas/EV-CapaAlbum.png';
 import CapaPM from '../../assets/musicas/capas/PM-CapaAlbum.png';
 
 const PlayList = () => {
@@ -100,6 +102,14 @@ const PlayList = () => {
       image: CapaEN,
       youtube:
         'https://www.youtube.com/watch?v=L_jWHffIx5E',
+    },
+    {
+      title: 'Billionaire',
+      name: 'Travie McCoy ft Bruno mars',
+      source: EV,
+      image: CapaEV,
+      youtube:
+        'https://www.youtube.com/watch?v=8aRor905cCw',
     },
     {
       title: 'Go!Create Song',
