@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cyber-fm/static/css/main.7a6ef8f4.css",
-    "main.js": "/cyber-fm/static/js/main.38deb3f8.js",
+    "main.js": "/cyber-fm/static/js/main.0b27b323.js",
     "static/media/EN.mp3": "/cyber-fm/static/media/EN.0d5f927c4215a67a00cc.mp3",
     "static/media/AP.mp3": "/cyber-fm/static/media/AP.893a29099ab53369c223.mp3",
     "static/media/ECT.mp3": "/cyber-fm/static/media/ECT.403314115a543918b422.mp3",
@@ -10,6 +10,7 @@
     "static/media/EM.mp3": "/cyber-fm/static/media/EM.62f1e388fa70da54116a.mp3",
     "static/media/GTM.mp3": "/cyber-fm/static/media/GTM.abc21d38b7cae9519409.mp3",
     "static/media/bg-playlist.png": "/cyber-fm/static/media/bg-playlist.03bf5d8a1bca9b05dfcb.png",
+    "static/media/EV.mp3": "/cyber-fm/static/media/EV.23504d8ddb07de23779b.mp3",
     "static/media/CI.mp3": "/cyber-fm/static/media/CI.71d33bc4b3919d7e1b93.mp3",
     "static/media/GTM2.mp3": "/cyber-fm/static/media/GTM2.9aea3ee9bd0591136cd7.mp3",
     "static/media/bg-playlist-celular.png": "/cyber-fm/static/media/bg-playlist-celular.2843c077ebbb350abc2e.png",
@@ -19,15 +20,16 @@
     "static/media/GTM2-CapaAlbum.png": "/cyber-fm/static/media/GTM2-CapaAlbum.33ffb1823213c7875b83.png",
     "static/media/PM-CapaAlbum.png": "/cyber-fm/static/media/PM-CapaAlbum.5cb2f3892ace715dfa91.png",
     "static/media/EN-CapaAlbum.png": "/cyber-fm/static/media/EN-CapaAlbum.874bda2abc3e59e4106e.png",
+    "static/media/EV-CapaAlbum.png": "/cyber-fm/static/media/EV-CapaAlbum.848b5417b75957fd63fa.png",
     "static/media/CI-CapaAlbum.png": "/cyber-fm/static/media/CI-CapaAlbum.ca5969c8b89cdf97d3c9.png",
     "static/media/EM-CapaAlbum.png": "/cyber-fm/static/media/EM-CapaAlbum.a97703ba6e0ce1f6e15f.png",
     "static/media/ECT-CapaAlbum.png": "/cyber-fm/static/media/ECT-CapaAlbum.b208dc119aa93eb41a70.png",
     "index.html": "/cyber-fm/index.html",
     "main.7a6ef8f4.css.map": "/cyber-fm/static/css/main.7a6ef8f4.css.map",
-    "main.38deb3f8.js.map": "/cyber-fm/static/js/main.38deb3f8.js.map"
+    "main.0b27b323.js.map": "/cyber-fm/static/js/main.0b27b323.js.map"
   },
   "entrypoints": [
     "static/css/main.7a6ef8f4.css",
-    "static/js/main.38deb3f8.js"
+    "static/js/main.0b27b323.js"
   ]
 }
